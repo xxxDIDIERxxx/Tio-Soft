@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TioSoft
 build_property.RootNamespace = TioSoft
-build_property.ProjectDir = C:\Users\Usuario\Desktop\TioSoft\TioSoft\TioSoft\
+build_property.ProjectDir = C:\Users\sebas\OneDrive\Escritorio\TioSoft\TioSoft\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\TioSoft\TioSoft\TioSoft
+build_property.MSBuildProjectDirectory = C:\Users\sebas\OneDrive\Escritorio\TioSoft\TioSoft
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Categorias/Create.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Categorias/Delete.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Categorias/Details.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Categorias/Edit.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Categorias/Index.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Compras/Create.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Compras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Compras/Delete.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Compras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Compras/Details.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Compras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Compras/Edit.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Compras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Compras/Index.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Compras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/DetalleCompras/Create.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/DetalleCompras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/DetalleCompras/Delete.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/DetalleCompras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/DetalleCompras/Details.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/DetalleCompras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/DetalleCompras/Edit.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/DetalleCompras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/DetalleCompras/Index.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/DetalleCompras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZUNvbXByYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Home/Index.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Home/Privacy.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Shared/Error.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/_ViewImports.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/_ViewStart.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Desktop/TioSoft/TioSoft/TioSoft/Views/Shared/_Layout.cshtml]
+[C:/Users/sebas/OneDrive/Escritorio/TioSoft/TioSoft/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z6r1neuf2w
