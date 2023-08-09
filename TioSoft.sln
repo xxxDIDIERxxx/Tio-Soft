@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TioSoft", "TioSoft\TioSoft.csproj", "{B0697052-B2BF-463A-A199-B85EC7AE4BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0697052-B2BF-463A-A199-B85EC7AE4BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0697052-B2BF-463A-A199-B85EC7AE4BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0697052-B2BF-463A-A199-B85EC7AE4BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0697052-B2BF-463A-A199-B85EC7AE4BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7EB2C3-F23E-46E1-A8DB-855F70F80464}
+	EndGlobalSection
+EndGlobal
