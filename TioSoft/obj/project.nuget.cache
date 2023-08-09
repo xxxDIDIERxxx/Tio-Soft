@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EexjY1YdIhvk4F4I5O55ta2oHOLSXc2tiyk1s05BRwGqfEcEM52R8JY6aHGrD7uckYx+lVNCtDe249DWP7GTMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\TioSoft\\TioSoft\\TioSoft\\TioSoft.csproj",
@@ -230,5 +231,11 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "PwRtchjfRi4/KPrXf4qMlorEgmJdBGa9bm8FuEcsr9kvUT4EypGqKaZqJgJeNuPie0pNSODPaWsGgMjFiBLp7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\TioSoft\\TioSoft\\TioSoft.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 847b800f1f18963a424ecd795957ce931b6ee54d
   "logs": []
 }
